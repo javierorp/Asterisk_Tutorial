@@ -27,7 +27,7 @@ Quiero dejar claro que **es la primera vez que configuro una [PBX](https://es.wi
 
  **Si detectas cualquier error, tienes cualquier duda, sugerencia o quieres contactar conmigo puedes hacerlo a través de**
 
-  [<img src="images/logos/linkedin_logo.png" width="20" height="20">](https://es.linkedin.com/in/javierortipriego)          [<img src="images/logos/github_logo.png" width="20" height="20">](https://github.com/javierorp)          [<img src="images/logos/outlook_logo.png" width="20" height="20">](mailto:javierorp@outlook.com) 
+  [<img src="images/logos/linkedin_logo.png" width="20" height="20">](https://es.linkedin.com/in/javierortipriego)          [<img src="images/logos/github_logo.png" width="20" height="20">](https://github.com/javierorp)          [<img src="images/logos/outlook_logo.png" width="20" height="20">](mailto:javierorp@proton.me) 
 
 
 
